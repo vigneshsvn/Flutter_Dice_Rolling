@@ -1,4 +1,4 @@
-# dicee_rolling
+# dice_rolling
 
 A new Flutter application.
 
